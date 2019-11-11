@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "20930CC2-4E28-402C-9C1B-DEE5A24ADD02"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9EF5657-657D-4647-8294-A87F34668C38"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FormBindable/RegistrationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E9EF5657-657D-4647-8294-A87F34668C38 - 3d79e101f642979f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt;&gt; in BindableStatesAndComposables.RegistrationView.body.getter : some"
+                  moduleName = "BindableStatesAndComposables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achin/Dev/BindableStates+Composables/FormBindable/RegistrationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "379">
+               </Location>
+               <Location
+                  uuid = "E9EF5657-657D-4647-8294-A87F34668C38 - af27909c4b9429e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt;&gt; in BindableStatesAndComposables.RegistrationView.body.getter : some"
+                  moduleName = "BindableStatesAndComposables"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achin/Dev/BindableStates+Composables/FormBindable/RegistrationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1782">
+               </Location>
+               <Location
+                  uuid = "E9EF5657-657D-4647-8294-A87F34668C38 - 5ad76cfcc9611c5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt; in closure #1 () -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Button&lt;SwiftUI.HStack&lt;SwiftUI.Image&gt;&gt;)&gt;&gt; in (extension in BindableStatesAndComposables_PreviewReplacement_RegistrationView_6):BindableStatesAndComposables.RegistrationView.(__preview__body in _2AF1875BDE03337D6B7330035BDB040C).getter : some"
+                  moduleName = "RegistrationView.6.preview-thunk.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/achin/Dev/BindableStates+Composables/FormBindable/RegistrationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "3893">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
